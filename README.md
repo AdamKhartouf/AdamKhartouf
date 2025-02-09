@@ -74,7 +74,7 @@
   <h2🏎️ My Intrests 🏎️</h2>
   <br>
   <picture>
-   ![220429](https://github.com/user-attachments/assets/7d0bdc2b-8b8c-4d37-aa42-c06cec9663e7)
+   <!-- Uploading "220429.gif"... -->
   </picture>
   <br/><br/><br/>
 </div>
