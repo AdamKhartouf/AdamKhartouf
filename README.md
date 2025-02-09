@@ -61,7 +61,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
     <img src="https://skillicons.dev/icons?i=discord" />
     <img src="https://skillicons.dev/icons?i=gmail" />
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
      <br>
 </div>
 
@@ -69,6 +69,16 @@
 
 
 <hr/>
+
+<div align="center">
+  <h2🏎️ My Intrests 🏎️</h2>
+  <br>
+  <picture>
+   ![220429](https://github.com/user-attachments/assets/7d0bdc2b-8b8c-4d37-aa42-c06cec9663e7)
+  </picture>
+  <br/><br/><br/>
+</div>
+
 
 
 
