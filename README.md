@@ -1,7 +1,7 @@
 
-<p align="center">
-## Hi there 👋
-</p>
+<div align="center">
+**Hi there** 👋
+</div>
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
