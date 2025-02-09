@@ -4,9 +4,9 @@
 <p align="center">
   <h3 align="center">⌨️ Adam Khartouf</h3>
 </p>
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&duration=5500&pause=1000&color=F7841F&width=435&lines=Welcome+To+My+Portfolio+!;I'm+Adam+Khartouf+)](https://git.io/typing-svg)
-
+</p>
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
