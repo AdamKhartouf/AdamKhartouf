@@ -60,6 +60,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
     <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
      <br>
 </div>
 
