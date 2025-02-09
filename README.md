@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;Im+Adam+Khartouf!&font=Alfa20%Slab20%One&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;Im+Adam+Khartouf!&font=Alfa+Slab+One&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
