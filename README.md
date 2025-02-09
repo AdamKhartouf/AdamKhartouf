@@ -59,6 +59,7 @@
 <h3 align="center">🛠️ Software and Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=discord,git,github" />
      <br>
 </div>
 
