@@ -71,11 +71,10 @@
 <hr/>
 
 <div align="center">
-  
-  <h2> 🏎️💨  My Intrests 🏎️💨  </h2>
+  <h2> 🏎️💨 My Interests 🏎️💨 </h2>
   <br>
   <picture>
-   ![Image](https://github.com/user-attachments/assets/26cefc22-6517-469a-8ccd-aa890801f7d8)
+    <img src="https://github.com/user-attachments/assets/26cefc22-6517-469a-8ccd-aa890801f7d8" alt="Racing Image" width="400">
   </picture>
   <br/><br/><br/>
 </div>
