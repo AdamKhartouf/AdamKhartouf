@@ -111,6 +111,12 @@
 
 <br/>
 
+<div align="center">
+    <a href="https://wa.me/+212649482148">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=footer&text=Let's%20Connect!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=green"/>
+    </a>
+</div>
+
 
 
 
