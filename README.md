@@ -74,7 +74,7 @@
   <h2🏎️ My Intrests 🏎️</h2>
   <br>
   <picture>
-   <!-- Uploading "220429.gif"... -->
+   ![Uploading 220429.gif…]()
   </picture>
   <br/><br/><br/>
 </div>
