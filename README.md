@@ -72,7 +72,7 @@
 
 <div align="center">
   
-  <h2 🏎️ My Intrests 🏎️ </h2>
+  <h2 ⚡ My Intrests ⚡ </h2>
     
   <br>
   
