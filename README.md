@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;Im+Adam+Khartouf!&font=Alfa+Slab+One&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<h3 align="center">Web Developer from Morocco 🇲🇦/h3>
+<h3 align="center">Web Developer from Morocco 🇲🇦</h3>
 
 </br>
 
