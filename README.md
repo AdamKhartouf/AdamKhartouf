@@ -20,9 +20,11 @@
   <h3 align="center">⌨Adam Khartouf</h3>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;Im+Adam+Khartouf!&font=Alfa+Slab+One&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<h1 align="center">
+    <a href="adamonline.infinityfreeapp.com">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adam+Khartouf!;" />
+    </a>
+</h1>
 
 <h3 align="center">Web Developer from Morocco 🇲🇦</h3>
 
