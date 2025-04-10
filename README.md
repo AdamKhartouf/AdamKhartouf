@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="adamonline.infinityfreeapp.com">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adam20%Khartouf&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adam%20Khartouf&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
   </a>
 </div>
 
